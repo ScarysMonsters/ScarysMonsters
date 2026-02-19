@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Scary Monsters</h1>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=ScarysMonsters&color=blue" 
+    alt="profile views"
+  />
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&pause=1000&color=5118F7&center=true&multiline=true&width=461&height=90&lines=Scary+Monsters;A+Jojo+Fan+Lover"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-<!--
-**ScarysMonsters/ScarysMonsters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats-sage-seven-36.vercel.app/api?username=scarysmonsters&theme=rose_pine&hide_border=false" />
+  <img src="https://github-readme-stats-sage-seven-36.vercel.app/api/top-langs/?username=scarysmonsters&theme=rose_pine&layout=compact&hide_border=false" />
+</div>
