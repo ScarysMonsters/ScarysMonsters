@@ -1,17 +1,17 @@
 <h1 align="center">Scary Monsters</h1>
+
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=ScarysMonsters&color=blue" 
     alt="profile views"
   />
 </p>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&pause=1000&color=5118F7&center=true&multiline=true&width=461&height=90&lines=Scary+Monsters;A+Jojo+Fan+Lover"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=650&height=180&lines=%24+whoami;Scary+Monsters;%24+status;High+School+Senior+(NSI)+-+Mayotte;%24+experience;Developer+since+2021;%24+interest;Jojo+Fan+Lover"
+    alt="Typing SVG"
+  />
 </p>
 
 <div align="center">
